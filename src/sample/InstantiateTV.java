@@ -7,8 +7,8 @@ public class InstantiateTV {
 
         TV panasonicTv = new TV();
         panasonicTv.changeChannel(13);
-        panasonicTv.channel = 13;
-        System.out.println(panasonicTv.channel);
+        // panasonicTv.channel = 13;
+        // System.out.println(panasonicTv.channel);
     }
 
 }
